@@ -4,6 +4,11 @@ public  class CountNum{
      }
      public double minus(Integer  a,Integer b){
 
-            return a-b;
+             return   a-b;
+     }
+
+     public double division(Integer a,Integer b){
+    
+	     return  a/b;
      }
 }
